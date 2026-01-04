@@ -70,7 +70,7 @@
         "api": "https://api.zuidapi.com/api.php/provide/vod",
         "name": "最大资源"
     },
-    "yinghua”: {
+    "yinghua": {
         "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
         "name": "樱花资源"
     },
